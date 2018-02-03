@@ -1,7 +1,8 @@
 ## Module 3 Project
-#
-Description
 
+*Description*
 
-This repo contains the output (tidy.txt), the output dataset and the code (run_analysis.R), the code use for cleaning the data. 
-# Module-3
+This repo contains the following:
+1. tidy.txt (output dataset)
+2. run_analysis.R (code use for data cleaning and preparation)
+
